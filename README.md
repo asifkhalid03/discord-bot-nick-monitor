@@ -1,3 +1,6 @@
+ <a href="https://www.buymeacoffee.com/asifkhalid03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
 If you are looking for a specific Discord bot for users who set their server profile nickname or original profile username as blank, making them difficult to locate, this bot can help you overcome that issue. It will change the user's nickname to a valid one.
 
 "These are the actions that will be performed by the bot:
@@ -41,7 +44,11 @@ Run the Python file:
 python nick_monitor_discord_bot.py
 
 
-Your kind words mean the world to me! If you found my assistance helpful, I would be grateful if you could leave me a star rating. And if you're feeling extra generous, I would love nothing more than a cup of coffee as a small token of appreciation.
+Your kind words mean the world to me! If you found my assistance helpful, I would be grateful if you could leave me a star rating. And if you're feeling extra generous, I would love nothing more than a cup of coffee as a small token of appreciation.   https://www.buymeacoffee.com/asifkhalid03
+
+ 
+ <a href="https://www.buymeacoffee.com/asifkhalid03" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 
 
 
